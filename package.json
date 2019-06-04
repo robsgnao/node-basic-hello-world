@@ -1,7 +1,7 @@
 {
   "name": "node-basic-hello-world",
-  "version": "0.0.0.1",
-  "license": "EUPL",
+  "version": "0.0.1",
+  "license": "EUPL-1.2",
   "repository": {
   "type": "git",
   "url": "https://github.com/robsgnao/node-basic-hello-world.git"

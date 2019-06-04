@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express" : "latest",
-    "angular" : "latest"
+    "angular" : "latest",
+    "mongoose" : "latest"
   }
 }

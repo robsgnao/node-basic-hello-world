@@ -6,4 +6,7 @@
   "type": "git",
   "url": "https://github.com/robsgnao/node-basic-hello-world.git"
   }
+  "dependencies": {
+    "express" : "latest"
+  }
 }
